@@ -1,0 +1,13 @@
+# Compiled binaries
+*.o
+*.obj
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Note: calculator.exe is intentionally committed so people can run it
+# without building. Remove the line below if you'd rather not ship the binary.
+# calculator.exe
